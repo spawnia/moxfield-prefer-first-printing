@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.7",
+        "mll-lab/php-utils": "^1.8"
+    }
+}
